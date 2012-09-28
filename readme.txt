@@ -8,13 +8,13 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Automatic timing post. 自动定时发布文章。
+Automatic batch timing post. 自动批量定时发布文章。
 
 == Description ==
 
-Automatic timing post. 自动定时发布文章。
+Automatic timing post. 自动批量定时发布文章。
 
-1、能够自动定时发布wordpress站点的草稿文章，无需每篇文章都手动设置定时发布时间，大大提高了工作效率。
+1、能够自动批量定时发布wordpress站点的草稿文章，无需每篇文章都手动设置定时发布时间，大大提高了工作效率。
 
 2、能够自定义定时发布文章的时间间隔。
 

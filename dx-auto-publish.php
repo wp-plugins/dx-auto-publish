@@ -2,7 +2,7 @@
 /*
 Plugin Name: DX-auto-publish
 Plugin URI: http://www.daxiawp.com/dx-auto-publish.html
-Description: Automatic timing post. 自动定时发布文章。
+Description: Automatic batch timing post. 自动批量定时发布文章。
 Version: 1.0
 Author: 大侠wp
 Author URI: http://www.daxiawp.com/dx-auto-publish.html
