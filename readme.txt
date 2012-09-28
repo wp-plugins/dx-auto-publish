@@ -1,0 +1,47 @@
+﻿=== Plugin Name ===
+Contributors: daxiawp
+Donate link: http://www.daxiawp.com
+Tags: Automatically published, cron, auto post, cron jobs, post missed schedule, scheduled posts, wp-cron
+Requires at least: 3.0.1
+Tested up to: 3.4.2
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Automatic timing post. 自动定时发布文章。
+
+== Description ==
+
+Automatic timing post. 
+
+自动定时发布文章。
+
+详情：[http://www.daxiawp.com/dx-auto-publish.html](http://www.daxiawp.com/dx-auto-publish.html)
+
+== Installation ==
+
+可以通过以下两种方法的其中一种来安装DX-auto-publish插件：
+
+1. 将下载的文件解压缩，然后将`dx-auto-publish`文件夹 上传到 `/wp-content/plugins/`目录，在插件后台启用
+
+2. 直接在后台-安装插件，搜索'DX-auto-publish'，按照提示安装启用
+
+== Frequently Asked Questions ==
+
+
+== Screenshots ==
+
+1. 后台截图
+
+== Changelog ==
+
+= 1.0 =
+* 发布dx-auto-publish插件
+
+
+
+== Upgrade notice ==
+
+
+
+== Arbitrary section 1 ==
