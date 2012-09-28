@@ -14,7 +14,11 @@ Automatic timing post. 自动定时发布文章。
 
 Automatic timing post. 
 
-自动定时发布文章。
+1、能够自动定时发布wordpress站点的草稿文章，无需每篇文章都手动设置定时发布时间，大大提高了工作效率。
+
+2、能够自定义定时发布文章的时间间隔。
+
+3、可选择按ID升序或随机发布草稿文章。
 
 详情：[http://www.daxiawp.com/dx-auto-publish.html](http://www.daxiawp.com/dx-auto-publish.html)
 
