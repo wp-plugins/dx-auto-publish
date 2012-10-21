@@ -4,7 +4,7 @@ Donate link: http://www.daxiawp.com
 Tags: Automatically published, cron, auto post, cron jobs, post missed schedule, scheduled posts, wp-cron
 Requires at least: 3.0.1
 Tested up to: 3.4.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,6 +41,9 @@ Automatic timing post. 自动批量定时发布文章。
 
 = 1.0 =
 * 发布dx-auto-publish插件
+
+= 1.1 =
+* 修复自动发布文章时会过滤html标签的一些属性代码
 
 
 
