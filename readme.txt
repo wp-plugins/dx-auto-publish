@@ -45,6 +45,9 @@ Automatic timing post. 自动批量定时发布文章。
 = 1.1 =
 * 修复自动发布文章时会过滤html标签的一些属性代码
 
+= 1.2 =
+* 修复bug
+
 
 
 == Upgrade notice ==

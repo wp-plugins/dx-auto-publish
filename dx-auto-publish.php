@@ -3,7 +3,7 @@
 Plugin Name: DX-auto-publish
 Plugin URI: http://www.daxiawp.com/dx-auto-publish.html
 Description: Automatic batch timing post. 自动批量定时发布文章。
-Version: 1.1
+Version: 1.2
 Author: 大侠wp
 Author URI: http://www.daxiawp.com/dx-auto-publish.html
 Copyright: daxiawp开发的原创插件，任何个人或团体不可擅自更改版权。
@@ -51,12 +51,12 @@ class DX_Auto_Publish{
 	
 	//form bottom action
 	function form_bottom(){
-	?>
+?>
 	
 	<p>插件介绍：<a href="http://www.daxiawp.com/dx-auto-publish.html" target="_blank">http://www.daxiawp.com/dx-auto-publish.html</a></p>
 	<p>wordpress主题请访问<a href="http://www.daxiawp.com" target="_blank">daxiawp</a>，大量大侠wp制作的主题供选择。wordpress定制、仿站、插件开发请联系：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1683134075&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1683134075:44" alt="点击这里给我发消息" title="点击这里给我发消息">1683134075</a></p>
 	
-	<?
+<?php
 	}		
 
 }
